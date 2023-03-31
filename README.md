@@ -1,5 +1,7 @@
 # To-predict-sales-using-quantum-computing
 
+To use quantum algorithms like Ridge Regression, Quantum Amplitude Estimation (QAE), and Quantum Support Vector Machine (QSVM) to predict sales.
+
 
 
 
